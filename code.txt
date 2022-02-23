@@ -6,3 +6,5 @@ We need now to tace the new code.
 
 come back to the last evrsion on the code which is :
 "This is the config respective of the VMs size."
+
+changing the VM OS to Ubuntu.
